@@ -1,2 +1,2 @@
 # Python_Learn
-Learning Python Year 1 
+* Learning Python from Year 1 
